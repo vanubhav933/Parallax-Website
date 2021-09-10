@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Parallax Website Demo</title>
+  <link rel="stylesheet" href="C:\Users\hp\Desktop\HTML\Parallax WebPage\Dynamic_Webpage.css">
+</head>
+<body>
+  <div class="pimg1">
+    <div class="ptext">
+      <span class="border">
+      <A href="C:\Users\hp\Desktop\HTML\Parallax WebPage\TAJ\Taj.html"> -THE TAJ MAHAL</A>
+      </span>
+    </div>
+  </div>
+
+  <section class="section section-light">
+    <h2>Incredible India!</h2>
+    <p>
+     One of the oldest civilisations in the world, India is a mosaic of multicultural experiences. With a rich heritage and myriad attractions, the country is among the most popular tourist destinations in the world. It covers an area of 32, 87,263 sq. km, extending from the snow-covered Himalayan heights to the tropical rain forests of the south. As the 7th largest country in the world, India stands apart from the rest of Asia, marked off as it is by mountains and the sea, which give the country a distinct geographical entity.
+Fringed by the Great Himalayas in the north, it stretches southwards and at the Tropic of Cancer, tapers off into the Indian Ocean between the Bay of Bengal on the east and the Arabian Sea on the west. As you travel the expanse of the country, you are greeted by diverse nuances of cuisines, faiths, arts, crafts, music, nature, lands, tribes, history and adventure sports. India has a mesmeric conflation of the old and the new. As the bustling old bazaars rub shoulders with swanky shopping malls, and majestic monuments accompany luxurious heritage hotels, the quintessential traveller can get the best of both worlds. Head to the mountains, enjoy a beach retreat or cruise through the golden Thar, India has options galore for all.
+    </p>
+  </section>
+
+  <div class="pimg2">
+    <div class="ptext">
+      <span class="border trans">
+      <A href="C:\Users\hp\Desktop\HTML\Parallax WebPage\Stupas\Stupas.html">  Stupas that Calm </A>
+      </span>
+    </div>
+  </div>
+
+  <section class="section section-dark">
+    <h2>Forts and Palaces</h2>
+    <p>
+      India is blessed with heritage riches and a regal lineage. Vestiges of Indian royalty can be felt in the various forts and palaces speckled across the country. From hill forts in Rajasthan to formidable fortifications in Gwalior, Golconda and Delhi, the history of India stands tall and proud, housed inside these marvellous structures. To experience how the royalty lived in the past, several of these palace-turned heritage hotels are a must-visit.
+Visiting these forts and palaces is the best way to uncover a real treasure of Indian history. These serve as great reminders of the bygone eras, mystical kingdoms and their rulers. 
+    </p>
+  </section>
+
+  <div class="pimg3">
+    <div class="ptext">
+      <span class="border trans">
+        Blue City
+      </span>
+    </div>
+  </div>
+
+  <section class="section section-dark">
+    <h2>Sunkissed Beaches</h2>
+    <p>
+      India's shorelines are endowed with a glorious beauty that is reflected in its undulating golden beaches that make for an ideal vantage point to watch the sun dipping into the sea. Beaches stroke both the eastern and western coasts of the Indian peninsula. They also act as sentinels of the rich cultural heritage of India and host many temples, memorials and monuments. Several beaches in the country are sites of adventure sports like skiing, scuba diving, parasailing and windsurfing. India's coastal line lures many migratory birds and aquatic life to come and nestle on the sun-kissed shores. 
+    </p>
+  </section>
+
+  <div class="pimg4">
+    <div class="ptext">
+      <span class="border">
+        Traversy Media
+      </span>
+    </div>
+  </div>
+</body>
+</html>
